@@ -1,2 +1,4 @@
-# Directed_Networks_From_Wikipedia_Pages
+# Directed Networks From Wikipedia Pages
 Directed networks: case study of Wikipedia pages - Stable Diffusion
+
+# About this project
