@@ -55,3 +55,7 @@ Stable Diffusion is a deep learning, text-to-image model released in 2022. It is
   [Claudiano Leonardo da Silva](https://github.com/ClaudianoLeonardo)
   
   [David Willian Pereira Jatobá](https://github.com/DavidWillian7)
+  
+  ## References:
+[Algorithm and Data Structure 2](https://github.com/ivanovitchm/datastructure)
+[Wikipedia](https://www.wikipedia.org/)
