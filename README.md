@@ -22,6 +22,14 @@ Stable Diffusion is a deep learning, text-to-image model released in 2022. It is
 **Degree Centrality:**
 <p align="center"><img width="600px" src= "https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/blob/main/images/degree_centrality.png" ></p>
 
+**Closeness Centrality:**
+<p align="center"><img width="600px" src= "https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/blob/main/images/closeness_centrality.png" ></p>
+
+**Betweenness Centrality:**
+<p align="center"><img width="600px" src= "https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/blob/main/images/betweenness_centrality.png" ></p>
+
+**Eigenvector Centrality:**
+<p align="center"><img width="600px" src= "https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/blob/main/images/eigenvector_centrality.png" ></p>
 
 ## Students participating in the project:
   
