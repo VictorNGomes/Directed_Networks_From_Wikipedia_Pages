@@ -6,7 +6,7 @@ The objective of this work is to generate a network (graph) directed from the li
 
 ## Pipeline:
 <p align="center"><img width="600px" src= "https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/blob/main/images/pipeline.png" ></p>
-For this project, a pipeline was built to collect data and treat them. Pipeline is a collection of processes that transform raw data into processed data.
+For this project, a pipeline was built to collect data and treat them. Pipeline is a collection of processes that transform raw data into processed data. The pipeline built for this project is available at [Pipeline](https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/blob/main/notebooks/Pipeline.ipynb)
 
 
 ## Project description:
