@@ -9,8 +9,11 @@ The objective of this work is to generate a network (graph) directed from the li
 
 Stable Diffusion is a deep learning, text-to-image model released in 2022. It is primarily used to generate detailed images conditioned on text descriptions, though it can also be applied to other tasks such as inpainting, outpainting, and generating image-to-image translations guided by a text prompt.
 
-### Analyzes:
-**Degree Centrality:** Degree centrality is the number of node connections 
+### Metrics:
+**Degree Centrality:** Degree centrality is the number of vertices connections 
+**Closeness Centrality:** Average distance to all other vertices
+**Betweenness Centrality:** Position on the shortest path
+**Eigenvector Centrality:** Authority score based on the score of the neighbors
 
 ## Students participating in the project:
   
