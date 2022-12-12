@@ -11,8 +11,11 @@ Stable Diffusion is a deep learning, text-to-image model released in 2022. It is
 
 ### Metrics:
 **Degree Centrality:** Degree centrality is the number of vertices connections 
+
 **Closeness Centrality:** Average distance to all other vertices
+
 **Betweenness Centrality:** Position on the shortest path
+
 **Eigenvector Centrality:** Authority score based on the score of the neighbors
 
 ## Students participating in the project:
