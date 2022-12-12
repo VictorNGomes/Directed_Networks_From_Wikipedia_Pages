@@ -1,7 +1,7 @@
 # Directed Networks From Wikipedia Pages
 
 ## About this project:
-This project is part of the course [Algorithm and Data Structure 2](https://github.com/ivanovitchm/datastructure).
+This project is part of the course [Algorithm and Data Structure 2](https://github.com/ivanovitchm/datastructure) from the Federal University of Rio Grande do Norte.
 The objective of this work is to generate a network (graph) directed from the links of the Wikipedia pages and perform an analysis applying network concepts. To generate the network initially a Wikipedia page is provided, then the network depth level is limited to 2. Stable diffusion was the seed chosen to generate the network.
 
 ## Project description:
