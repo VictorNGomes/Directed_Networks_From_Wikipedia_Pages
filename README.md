@@ -37,6 +37,11 @@ Stable Diffusion is a deep learning, text-to-image model released in 2022. It is
 **Comparison between metrics:**
 <p align="center"><img width="600px" src= "https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/blob/main/images/all.png" ></p>
 
+**Probability Density Function:**
+<p align="center"><img width="600px" src= "https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/blob/main/images/probability_density_function%20(1).png" ></p>
+
+## Pipeline
+
 ## Students participating in the project:
   
   [Victor do Nascimento Gomes](https://github.com/VictorNGomes)
