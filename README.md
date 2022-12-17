@@ -36,10 +36,12 @@ The image shows nodes with closeness centrality between 0.51 and 1. Considering 
 <p align="center"><img width="600px" src= "https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/blob/dev/images/closeness_centrality.png" ></p>
 
 **Betweenness Centrality:**
+
 The image shows nodes with betweenness centrality between 0.2% and 0.33%(maximum value of the metric for this network). Considering the limits of the intervals, it can be concluded that there are not many nodes that are part of the shortest path between the other nodes in the network.
 <p align="center"><img width="600px" src= "https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/blob/dev/images/betweenness_centrality.png" ></p>
 
 **Eigenvector Centrality:**
+
 This metric shows how important the node is, that is, if it is connected to important neighbors. The image shows nodes with eigenvector eentrality greater than 0.8, so you can see that this network has many "important" nodes.
 <p align="center"><img width="600px" src= "https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/blob/dev/images/eigenvector_centrality.png" ></p>
 
