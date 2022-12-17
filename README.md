@@ -38,7 +38,7 @@ The image shows nodes with closeness centrality between 0.51 and 1. Considering 
 **Betweenness Centrality:**
 
 The image shows nodes with betweenness centrality between 0.2% and 0.33%(maximum value of the metric for this network). Considering the limits of the intervals, it can be concluded that there are not many nodes that are part of the shortest path between the other nodes in the network,
-what was expected since it is a network that has many nodes.
+which was expected because it is a network that has many nodes.
 <p align="center"><img width="600px" src= "https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/blob/dev/images/betweenness_centrality.png" ></p>
 
 **Eigenvector Centrality:**
