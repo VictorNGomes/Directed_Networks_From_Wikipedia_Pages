@@ -52,11 +52,11 @@ Discussions of the results are then available at [Results](https://www.loom.com/
 To run this project just access [Pipeline](https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/blob/main/notebooks/Pipeline.ipynb) and execute the steps described in the file.
 
 ## Visualization
-With the help of tools such as Gephi, Retina, and Gephisto, it is possible to have a better view of the networks and the metrics applied to carry out the analysis.
+With the help of tools such as [Gephi](https://gephi.org/), [Retina](https://ouestware.gitlab.io/retina/beta/), and Gephisto, it is possible to have a better view of the networks and the metrics applied to carry out the analysis.
 
 **Gephi**
 
-The .graphml file obtained through the scripts contained in the notebooks was loaded into gephi and colored based on the Modularity Class metric. The Modularity Class is a community detection metric, and in this case 7 were obtained.
+The .graphml file obtained through the scripts contained in the notebooks was loaded into [Gephi](https://gephi.org/) and colored based on the Modularity Class metric. The Modularity Class is a community detection metric, and in this case 7 were obtained.
 
 <p align="center"><img width="600px" src= "https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/blob/main/images/gephi_images/full_view.png" ></p>
 
