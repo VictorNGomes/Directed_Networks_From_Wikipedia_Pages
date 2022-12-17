@@ -26,19 +26,25 @@ Stable Diffusion is a deep learning, text-to-image model released in 2022. It is
 
 ### Analyzes:
 **Degree Centrality:**
-<p align="center"><img width="600px" src= "https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/blob/main/images/degree_centrality.png" ></p>
+
+The image below shows the nodes with degree greater than 300. It is noticed that although the network has more than 2000 nodes (pages), not many have a large number of interactions.
+<p align="center"><img width="600px" src= "https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/blob/dev/images/degree_centrality.png" ></p>
 
 **Closeness Centrality:**
-<p align="center"><img width="600px" src= "https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/blob/main/images/closeness_centrality.png" ></p>
+
+The image shows nodes with closeness centrality between 0.51 and 1. Considering that this metric measures the average distance of a node in relation to the others, it can be seen that most of these nodes in this network are distant, because in the considered interval few nodes appear.
+<p align="center"><img width="600px" src= "https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/blob/dev/images/closeness_centrality.png" ></p>
 
 **Betweenness Centrality:**
-<p align="center"><img width="600px" src= "https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/blob/main/images/betweenness_centrality.png" ></p>
+The image shows nodes with betweenness centrality between 0.2% and 0.33%(maximum value of the metric for this network). Considering the limits of the intervals, it can be concluded that there are not many nodes that are part of the shortest path between the other nodes in the network.
+<p align="center"><img width="600px" src= "https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/blob/dev/images/betweenness_centrality.png" ></p>
 
 **Eigenvector Centrality:**
-<p align="center"><img width="600px" src= "https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/blob/main/images/eigenvector_centrality.png" ></p>
+This metric shows how important the node is, that is, if it is connected to important neighbors. The image shows nodes with eigenvector eentrality greater than 0.8, so you can see that this network has many "important" nodes.
+<p align="center"><img width="600px" src= "https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/blob/dev/images/eigenvector_centrality.png" ></p>
 
 **Core Decomposition:**
-<p align="center"><img width="600px" src= "https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/blob/main/images/k-core_sociopatterns.png" ></p>
+<p align="center"><img width="600px" src= "https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/blob/dev/images/k-core_sociopatterns.png" ></p>
 
 **Comparison between metrics:**
 <p align="center"><img width="600px" src= "https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/blob/main/images/all.png" ></p>
