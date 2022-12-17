@@ -48,7 +48,7 @@ This metric shows how important the node is, that is, if it is connected to impo
 **Core Decomposition:**
 
 Core decomposition consists of finding the core of the network considering the number of connections (k-core), for example 2-core, every node in the component has at least 2 connections with 2 other nodes, the nodes that are outside the core, "cover the core" are called shell, 
-in the example given above the shell covering the 2-core component is the 1-shel. 
+in the example given above the shell covering the 2-core component is the 1-shell. 
 The image shows the last core of the network and the shell that covers it. In red the 10-core and in blue the 9-shell
 
 <p align="center"><img width="600px" src= "https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/blob/dev/images/k-core_sociopatterns.png" ></p>
