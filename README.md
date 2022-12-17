@@ -37,7 +37,8 @@ The image shows nodes with closeness centrality between 0.51 and 1. Considering 
 
 **Betweenness Centrality:**
 
-The image shows nodes with betweenness centrality between 0.2% and 0.33%(maximum value of the metric for this network). Considering the limits of the intervals, it can be concluded that there are not many nodes that are part of the shortest path between the other nodes in the network.
+The image shows nodes with betweenness centrality between 0.2% and 0.33%(maximum value of the metric for this network). Considering the limits of the intervals, it can be concluded that there are not many nodes that are part of the shortest path between the other nodes in the network,
+what was expected since it is a network that has many nodes.
 <p align="center"><img width="600px" src= "https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/blob/dev/images/betweenness_centrality.png" ></p>
 
 **Eigenvector Centrality:**
@@ -83,9 +84,12 @@ It is possible to visualize and interact with this graph [here](https://victorng
 
 Through the retina tool it is possible to visualize the network in an interactive way and seeking to facilitate the analysis and understanding of it. For this, just upload the .graphml file on the website.
 
-For the network in question, [this video]() shows some conclusions according to some metrics.
+For the network in question, [this video](https://www.loom.com/share/0792a126362c49fc9bb54c1438190e78) shows some conclusions according to some metrics.
 
 **Gephisto**
+The image generated in Gephisto shows the network with the settings defined in gephi, modularity to detect and color the communities, in-degree to define the size of the nodes and the ForceAtlas2 layout. 
+It is possible to notice that the pages have more citations (nodes with higher in_degree) are related to stable diffusion theoretical themes (pink nodes) and the others that appear in prominence are related to tools.
+
 <p align="center"><img width="600px" src= "https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/blob/main/images/Gephisto_images/Gephisto%20Network%20Map.png" ></p>
 
 ## Students participating in the project:
