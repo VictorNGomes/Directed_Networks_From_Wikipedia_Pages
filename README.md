@@ -65,7 +65,7 @@ Discussions of the results are then available at [Results](https://www.loom.com/
 To run this project just access [Pipeline](https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/blob/main/notebooks/Pipeline.ipynb) and execute the steps described in the file.
 
 ## Visualization
-With the help of tools such as [Gephi](https://gephi.org/), [Retina](https://ouestware.gitlab.io/retina/beta/), and Gephisto, it is possible to have a better view of the networks and the metrics applied to carry out the analysis.
+With the help of tools such as [Gephi](https://gephi.org/), [Retina](https://ouestware.gitlab.io/retina/beta/), and [Gephisto](https://jacomyma.github.io/gephisto/), it is possible to have a better view of the networks and the metrics applied to carry out the analysis.
 
 **Gephi**
 
