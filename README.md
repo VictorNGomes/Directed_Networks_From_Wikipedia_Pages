@@ -49,7 +49,16 @@ Stable Diffusion is a deep learning, text-to-image model released in 2022. It is
 ## Results:
 Discussions of the results are then available at [Results](https://www.loom.com/share/1c6300610a394df09d4a64f7db12b057).
 
-To run this project just access [Pipeline](https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/blob/main/notebooks/Pipeline.ipynb) and execute the steps described in the file. 
+To run this project just access [Pipeline](https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/blob/main/notebooks/Pipeline.ipynb) and execute the steps described in the file.
+
+## Visualization
+With the help of tools such as Gephi, Retina, and Gephisto, it is possible to have a better view of the networks and the metrics applied to carry out the analysis.
+
+**Gephi**
+The .graphml file obtained through the scripts contained in the notebooks was loaded into gephi and colored based on the Modularity Class metric. The Modularity Class is a community detection metric, and in this case 7 were obtained.
+
+<p align="center"><img width="600px" src= "https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/tree/main/images/gephi_images/full_view.png" ></p>
+
 
 ## Students participating in the project:
   
