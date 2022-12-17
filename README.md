@@ -68,7 +68,7 @@ To run this project just access [Pipeline](https://github.com/VictorNGomes/Direc
 ## Visualization
 With the help of tools such as [Gephi](https://gephi.org/), [Retina](https://ouestware.gitlab.io/retina/beta/), and [Gephisto](https://jacomyma.github.io/gephisto/), it is possible to have a better view of the networks and the metrics applied to carry out the analysis.
 
-**Gephi**
+**Gephi:**
 
 The .graphml file obtained through the scripts contained in the notebooks was loaded into [Gephi](https://gephi.org/) and colored based on the Modularity Class metric. The Modularity Class is a community detection metric, and in this case 7 were obtained.
 
@@ -80,13 +80,14 @@ Through gephi it is possible to perform filtering that can help us to understand
 
 It is possible to visualize and interact with this graph [here](https://victorngomes.github.io/Deploy_Network_Visualization/).
 
-**Retina**
+**Retina:**
 
 Through the retina tool it is possible to visualize the network in an interactive way and seeking to facilitate the analysis and understanding of it. For this, just upload the .graphml file on the website.
 
 For the network in question, [this video](https://www.loom.com/share/0792a126362c49fc9bb54c1438190e78) shows some conclusions according to some metrics.
 
-**Gephisto**
+**Gephisto:**
+
 The image generated in Gephisto shows the network with the settings defined in gephi, modularity to detect and color the communities, in-degree to define the size of the nodes and the ForceAtlas2 layout. 
 It is possible to notice that the pages have more citations (nodes with higher in_degree) are related to stable diffusion theoretical themes (pink nodes) and the others that appear in prominence are related to tools.
 
