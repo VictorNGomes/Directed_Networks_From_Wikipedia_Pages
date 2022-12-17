@@ -79,6 +79,12 @@ Through gephi it is possible to perform filtering that can help us to understand
 
 It is possible to visualize and interact with this graph [here](https://victorngomes.github.io/Deploy_Network_Visualization/).
 
+**Retina**
+
+Through the retina tool it is possible to visualize the network in an interactive way and seeking to facilitate the analysis and understanding of it. For this, just upload the .graphml file on the website.
+
+For the network in question, [this video]() shows some conclusions according to some metrics.
+
 ## Students participating in the project:
   
   [Victor do Nascimento Gomes](https://github.com/VictorNGomes)
