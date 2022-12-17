@@ -85,6 +85,9 @@ Through the retina tool it is possible to visualize the network in an interactiv
 
 For the network in question, [this video]() shows some conclusions according to some metrics.
 
+**Gephisto**
+<p align="center"><img width="600px" src= "https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/blob/main/images/Gephisto_images/Gephisto%20Network%20Map.png" ></p>
+
 ## Students participating in the project:
   
   [Victor do Nascimento Gomes](https://github.com/VictorNGomes)
