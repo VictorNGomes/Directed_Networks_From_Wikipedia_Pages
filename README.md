@@ -26,10 +26,15 @@ Stable Diffusion is a deep learning, text-to-image model released in 2022. It is
 
 ### Analyzes:
 **Degree Centrality:**
+
+The image below shows the nodes with degree greater than 300. It is noticed that although the network has more than 2000 nodes (pages), not many have a large number of interactions.
 <p align="center"><img width="600px" src= "https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/blob/dev/images/degree_centrality.png" ></p>
 
 **Closeness Centrality:**
-<p align="center"><img width="600px" src= "https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/blob/main/images/closeness_centrality.png" ></p>
+
+The image shows nodes with closeness centrality between 0.51 and 1. Considering that this metric measures the average distance of a node in relation to the others, it can be seen that most of these nodes in this network are close, because in the considered interval few nodes appear.
+
+<p align="center"><img width="600px" src= "https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/blob/dev/images/closeness_centrality.png" ></p>
 
 **Betweenness Centrality:**
 <p align="center"><img width="600px" src= "https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/blob/main/images/betweenness_centrality.png" ></p>
