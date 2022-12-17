@@ -60,9 +60,11 @@ The .graphml file obtained through the scripts contained in the notebooks was lo
 
 <p align="center"><img width="600px" src= "https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/blob/main/images/gephi_images/full_view.png" ></p>
 
-Through gephi it is possible to perform filtering that can help us to understand the network. For example, in the case of the figure below, only nodes with degree above 89 are shown.
+Through gephi it is possible to perform filtering that can help us to understand the network. For example, in the case of the figure below, only nodes with in-degree above 89 are shown. From this visualization, it can be seen that there is a community (green color) that has the largest number of nodes with high entry degrees, which, in this context, represent a group of web pages that are frequently cited from the seed stable diffusion
 
 <p align="center"><img width="600px" src= "https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/blob/main/images/gephi_images/net89-max.png" ></p>
+
+It is possible to visualize and interact with this graph [here](https://victorngomes.github.io/Deploy_Network_Visualization/).
 
 ## Students participating in the project:
   
