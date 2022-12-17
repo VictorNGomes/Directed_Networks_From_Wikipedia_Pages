@@ -55,10 +55,14 @@ To run this project just access [Pipeline](https://github.com/VictorNGomes/Direc
 With the help of tools such as Gephi, Retina, and Gephisto, it is possible to have a better view of the networks and the metrics applied to carry out the analysis.
 
 **Gephi**
+
 The .graphml file obtained through the scripts contained in the notebooks was loaded into gephi and colored based on the Modularity Class metric. The Modularity Class is a community detection metric, and in this case 7 were obtained.
 
-<p align="center"><img width="600px" src= "https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/tree/main/images/gephi_images/full_view.png" ></p>
+<p align="center"><img width="600px" src= "https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/blob/main/images/gephi_images/full_view.png" ></p>
 
+Through gephi it is possible to perform filtering that can help us to understand the network. For example, in the case of the figure below, only nodes with degree above 89 are shown.
+
+<p align="center"><img width="600px" src= "https://github.com/VictorNGomes/Directed_Networks_From_Wikipedia_Pages/blob/main/images/gephi_images/net89-max.png" ></p>
 
 ## Students participating in the project:
   
